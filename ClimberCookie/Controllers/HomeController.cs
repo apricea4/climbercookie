@@ -29,6 +29,11 @@ namespace ClimberCookie.Controllers
             return View();
         }
 
+        public IActionResult Products()
+        {
+            return View(); // probably return view(model) with the products model
+        }
+
         public IActionResult Privacy()
         {
             return View();

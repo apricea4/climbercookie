@@ -30,3 +30,4 @@ C:\Users\Alexander Timothy\Skool\theProgramming\Projects\ClimberCookie\ClimberCo
 C:\Users\Alexander Timothy\Skool\theProgramming\Projects\ClimberCookie\ClimberCookie\obj\Debug\netcoreapp2.1\ClimberCookie.pdb
 C:\Users\Alexander Timothy\Skool\theProgramming\Projects\ClimberCookie\ClimberCookie\obj\Debug\netcoreapp2.1\ClimberCookie.csproj.CopyComplete
 C:\Users\Alexander Timothy\Skool\theProgramming\Projects\ClimberCookie\ClimberCookie\obj\Debug\netcoreapp2.1\ClimberCookie.csprojAssemblyReference.cache
+C:\Users\Alexander Timothy\Skool\theProgramming\Projects\ClimberCookie\ClimberCookie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Products.g.cshtml.cs
