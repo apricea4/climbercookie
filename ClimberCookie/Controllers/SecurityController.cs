@@ -17,8 +17,7 @@ namespace ClimberCookie.Controllers
         [HttpGet]
         public string login(string name, string word)
         {
-            Access.Login(name, word);
-            return "success";
+            return Access.Login(name, word);           
 
         }
 
@@ -26,8 +25,7 @@ namespace ClimberCookie.Controllers
         [HttpGet]
         public string signup(string name, string word)
         {
-            Access.CreateNew(name, word);
-            return "success";
+            return Access.CreateNew(name, word);
         }
     }
 }

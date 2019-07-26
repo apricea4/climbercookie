@@ -34,3 +34,12 @@ id serial primary key
 , address varchar(50) not null
 , phone varchar(15) not null
 );
+
+
+
+create table Users(
+id serial primary key
+, username varchar(40) not null
+, pword bytea not null
+, salt bytea not null
+);
